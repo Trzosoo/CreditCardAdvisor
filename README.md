@@ -1,5 +1,5 @@
 # CreditCardAdvisor
-Simple exercise for recruitment process
+Simple exercise for training
 
 ## Build Setup
 
