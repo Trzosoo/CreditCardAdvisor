@@ -1,5 +1,5 @@
 # CreditCardAdvisor
-Simple exercise for training
+Simple excercise app
 
 ## Build Setup
 
